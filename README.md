@@ -13,6 +13,11 @@ O que aprendemos:
 <li>Que para extrair chaves e valores de objetos é possível utilizar métodos de Object;
 <li>Que funções como .entries, .key e .value podem ser úteis na hora de trabalhar com objetos;
 <li>Que o spread operator (ou sintaxe de espalhamento) pode ser uma opção para decompor objetos quando precisamos extraí-los de um array e formar um novo array.
+<li>Que no Javascript o protótipo representa um objeto “modelo” com seus métodos, utilizado como base para a criação de outros objetos;
+<li>Como acessar propriedades de protótipo através de __proto__ e da propriedade prototype;
+<li>Como a herança de protótipo é utilizada para a criação de dados primitivos, arrays e objetos com JavaScript;
+<li>Como criar objetos utilizando funções construtoras;
+<li>Como utilizar a herança para criação de novos objetos com a propriedade prototype.
 
   
 
