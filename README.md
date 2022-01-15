@@ -9,3 +9,9 @@ O que aprendemos:
 <li>Que para manipular objetos literais podemos utilizar os métodos do JavaScript para cada tipo de dado;
 <li>Que os valores em um objeto podem ser tipos primitivos (strings, números, booleanos e null), arrays ou outros objetos;
 <li>Que além das propriedades, também podemos atribuir funções que dão comportamento a um objeto.
+
+  
+  
+<img src="https://github.com/marcospatton/Fundamentos-do-JavaScript-Tipos-vari-veis-e-fun-es/blob/main/logoJavaScript.png"></a>
+<br><br>
+
