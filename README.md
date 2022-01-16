@@ -18,6 +18,10 @@ O que aprendemos:
 <li>Como a herança de protótipo é utilizada para a criação de dados primitivos, arrays e objetos com JavaScript;
 <li>Como criar objetos utilizando funções construtoras;
 <li>Como utilizar a herança para criação de novos objetos com a propriedade prototype.
+<li>Que classes e objetos são alguns dos principais conceitos da Programação Orientada a Objetos;
+<li>Como utilizar uma classe como modelo para construir objetos com propriedades e métodos;
+<li>Como utilizar a herança de classe com extends para criar objetos a partir de modelos específicos.
+
 
   
 
